@@ -46,8 +46,14 @@ const Container = styled.div`
     }
     button{
         color: orange;
+        font-size: 15px;
+        font-weight: bold;
         background-color:white;
         border: none;
+        height: 40px;
+        width: 30vw;
+        margin: 20px;
+
 
     }
 
