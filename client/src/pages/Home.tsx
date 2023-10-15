@@ -39,20 +39,20 @@ const Container = styled.div`
     }
 
     .buttons{
-        width: 25vw;
+        width: 35vw;
         display:flex;
         align-items: center;
         justify-content: space-around;
     }
     button{
         color: orange;
-        font-size: 15px;
+        font-size: 20px;
         font-weight: bold;
         background-color:white;
         border: none;
         height: 40px;
-        width: 30vw;
-        margin: 20px;
+        width: 40vw;
+        margin: 10px;
 
 
     }
